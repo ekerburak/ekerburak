@@ -1,4 +1,4 @@
-### Merhaba / Hi / 안녕하세요 / Salut
+### Merhaba / Hello
 
 I'm Burak Eker from Türkiye 🇹🇷.
 
